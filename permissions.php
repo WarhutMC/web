@@ -1,5 +1,5 @@
-<span class="label label-danger">DEV</span>
 <span class="label label-danger">ADMIN</span>
+<span class="label label-warning">Warhut Manager</span>
 <span class="label label-warning">SR MOD</span>
 <span class="label label-warning">MOD</span>
 <span class="label label-info">HELPER</span>
